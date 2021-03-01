@@ -1,4 +1,4 @@
-
+https://russe64.fr
 « Les amis de la culture Russe »
 Présentation d’un site pour l’association avec une gestion de contenue. 
 
@@ -36,14 +36,3 @@ Les annonces pourront être associés à une ou plusieurs catégories.
 
 Avant d’être publique sur le site, l’annonce doit être vérifier et confirmé par l’admin.
 
-Adresse mail crée avec succés
-Pour vous connecter à ce mail avec un logiciel de messagerie (ex: outlook, thunderbird):
-
-Serveur pop/pop3/Imap: mail41.lwspanel.com
-Nom d'utilisateur: info@russe64.fr
-Adresses email: info@russe64.fr
-Mot de passe: hC4*m6pbta
-Serveur smtp: mail41.lwspanel.com
-Quota de la boite: 1000 Mo
-
-Notez ces paramètres sur une feuille ils vous seront indispensables pour relever votre courrier.
