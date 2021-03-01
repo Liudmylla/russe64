@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /
+ErrorDocument 404 http://russe64.fr/404.php
+RewriteCond %{THE_REQUEST} /public/([^\s?]*) [NC]
+RewriteRule ^ %1 [L,NE,R=302]
+RewriteRule ^((?!public/).*)$ public/$1 [L,NC]

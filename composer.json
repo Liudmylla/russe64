@@ -1,0 +1,20 @@
+{
+    "autoload": {
+        "files":["src/helpers.php"],
+        "psr-4": {
+            "App\\": "src/"
+           
+        }
+    },
+    "require": {
+        "altorouter/altorouter": "1.2.0",
+        "symfony/var-dumper": "^5.0",
+        "filp/whoops": "2.3.1",
+        "fzaninotto/faker": "^1.9",
+        "vlucas/valitron": "1.4.5",
+        "phpmailer/phpmailer": "^6.1",
+        "intervention/image": "^2.5",
+        "swiftmailer/swiftmailer": "6.0",
+        "cocur/slugify": "^4.0"
+    }
+}

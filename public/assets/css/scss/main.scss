@@ -1,0 +1,10 @@
+$default-color: #202020;
+$primary-color: #f83745;
+$badge-color: #ffb10a;
+$link-color: #66b5e9;
+
+@import 'reset';
+@import 'mixins';
+@import 'default';
+@import 'header';
+@import 'home';

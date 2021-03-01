@@ -1,0 +1,9 @@
+
+RewriteEngine On
+RewriteBase /public/
+ErrorDocument 404 http://russe64.fr/page404.php
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+
+RewriteRule ^(.*)$ index.php
